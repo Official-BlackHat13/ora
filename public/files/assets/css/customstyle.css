@@ -1,0 +1,58 @@
+.login-block {
+    padding: 0px 0;
+    margin: 0 auto;
+    background: unset;
+	min-height: unset !important;
+}
+
+
+.headr{
+background: linear-gradient(to right,#fe9365 50%,#f9dcd0);
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+
+
+.headr h2 {
+font-family:'Raleway';
+font-weight: 700; 
+}
+
+.main-bg{
+background: url(../images/auth/bg.jpg);	
+background-size:cover;
+height: 100vh;
+ overflow: auto;
+}
+
+.login-block .auth-box {
+	padding:30px 20px 0px 20px;
+	margin:0px;
+}
+
+h1,h2{
+	font-weight:600 !important;
+}
+
+th,td{
+	white-space: unset;
+}
+
+
+th:last-child,td:last-child{
+	white-space: nowrap;
+}
+.table td, .table th {
+    padding: .4rem .75rem !important;
+    vertical-align: top;
+}
+
+.card{
+	background-color:#ffffffe7 !important;
+}
+
+
+.header-navbar .navbar-wrapper .navbar-logo{
+	padding:0px !important;
+}
+	
